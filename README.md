@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MufwebaC
-- 👀 I’m interested in ...
+- 👀 I’m interested in the intersection of health & Tech
 - 🌱 I’m currently learning how to be a frontend developer
 - 💞️ I’m looking to collaborate with highly skilled professionals
 - 📫 How to reach me- mufwebachikumbi@gmail.com
